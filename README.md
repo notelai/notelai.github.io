@@ -1,1 +1,1 @@
-# notelai.github.io
+# [notelai.com](http://notelai.com)
