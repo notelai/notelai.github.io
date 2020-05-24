@@ -7,7 +7,7 @@ round-avatar: true
 ---
 I obtained my MSc in Analytical Chemistry from Sheffield Hallam University in late 2017, and my BEng in Polymer Chemistry of Chemical Engineering from The Ho Chi Minh City University of Technology, Vietnam. 
 
-My master's thesis worked with “RNA-Seq data” in which I had to use bioinformatics tools to examine the expression of genes. A journey of a thousand miles starts with a single step,  I began interesting with data and I have worked with python and R from then.
+In my master's thesis, I worked with “RNA-Seq data” in which I had to use bioinformatics tools to examine the expression of genes. I began interested in data and working with python and R from then.
 
 I like coffee, tea and more... I can drink Vietnamese coffee or tea at any moment. In free time, I play with two sons or read. 
 
