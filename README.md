@@ -1,4 +1,4 @@
-# [notelai.com](http://notelai.com)
+# [notelai.com](http://notelai.com).
 
 This is my personal profile web page.
 https://notelai.github.io/
