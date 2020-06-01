@@ -13,7 +13,6 @@ We will make frequent mention of Python in this guide. This is because, at its c
 ### Creating a Virtual Environment (UNIX)
 
 We will reference this document: conda.io/docs/using/envs.html throughout.
-
 We will name our environment “Bio” for these examples.
 
 To create an environment: conda create --name Bio python=3.7
@@ -31,16 +30,15 @@ We will reference this document: conda.io/docs/using/envs.html throughout.
 
 Windows users will run these commands in the Anaconda Prompt. The only difference is Windows users will ignore the `source` command when acitvating and deactivating virtual environments.
 
-To create an environment: conda create --name Bio python=3.7
-To activate the environment: activate Bio
-To deactivate the environment: deactivate Bio
-To list environments: conda info --envs
-To remove an environment: conda remove --name Bio --all
+To create an environment: conda create --name Bio python=3.7  
+To activate the environment: activate Bio  
+To deactivate the environment: deactivate Bio  
+To list environments: conda info --envs  
+To remove an environment: conda remove --name Bio --all  
 
 After activating the environment, the command line will be prepended by (Bio) and the $PATH variable will be modified to point to anaconda3/envs/Bio/bin.
 
 We will install dependencies to the virtual environment, so make sure the (Bio) environment is active for the next steps.
-
 
 Run these commands in order. This will install R, RStudio, and add various channels for future package installations.
 
