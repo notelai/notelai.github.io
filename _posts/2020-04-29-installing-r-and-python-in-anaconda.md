@@ -10,7 +10,7 @@ Any software stack that can be built with Anaconda can be replicated on any othe
 
 We will make frequent mention of Python in this guide. This is because, at its core, Anaconda is a virtualizer for Python. There is a close relationship between Python and R in the biology community, so they are managed simultaneously by Anaconda. The principles in this guide can be similarly applied to creating Python environments. See the relevant section of the related guide in this repository on installing Python.
 
-## Creating a Virtual Environment (UNIX)
+### Creating a Virtual Environment (UNIX)
 
 We will reference this document: conda.io/docs/using/envs.html throughout.
 
@@ -26,7 +26,7 @@ After activating the environment, the command line will be prepended by (Bio) an
 
 We will install dependencies to the virtual environment, so make sure the `(Bio)` environment is active for the next steps.
 
-## Creating a Virtual Environment (Windows)
+### Creating a Virtual Environment (Windows)
 We will reference this document: conda.io/docs/using/envs.html throughout.
 
 Windows users will run these commands in the Anaconda Prompt. The only difference is Windows users will ignore the `source` command when acitvating and deactivating virtual environments.
@@ -51,12 +51,12 @@ Run these commands in order. This will install R, RStudio, and add various chann
 5. conda install r
 6. conda install rstudio
 
-## Using the Anaconda Environment
-Now, whenever you are working on this project, make sure you are operating in the (BioSandbox) virtual environment. When you are using an IDE, you may have to tweak the settings to make sure it is using the (BioSandbox) environment. When you are using the command line, make sure that you have activated the environment and (Bio) is prepended to the command line.
+### Using the Anaconda Environment
+Now, whenever you are working on this project, make sure you are operating in the (Bio) virtual environment. When you are using an IDE, you may have to tweak the settings to make sure it is using the (Bio) environment. When you are using the command line, make sure that you have activated the environment and (Bio) is prepended to the command line.
 
 For maximum convenience, start RStudio from the Anaconda Prompt or command line by running rstudio from your virtual environment. This will load RStudio with your virtual environment’s R installation rather than your system’s R installation.
 
-## Installing Bioconda Packages
+### Installing Bioconda Packages
 Most of the popular bioinformatics packages that you will encounter are managed by Bioconda. In addition, most of them are UNIX-only. Use the following commands to install a few you may be interested in:
 
 1. conda install bioconductor-phyloseq
@@ -70,7 +70,7 @@ Most of the popular bioinformatics packages that you will encounter are managed 
 
 Check out bioconda.github.io/recipes.html for the full list of Bioconda packages, and docs.continuum.io/anaconda/pkg-docs for a full list of Anaconda packages.
 
-## Opening RStudio with your Anaconda Environment
+### Opening RStudio with your Anaconda Environment
 Simply run:
 
 1. rstudio
