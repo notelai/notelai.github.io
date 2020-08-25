@@ -17,6 +17,7 @@ PRACTICUM I. Intro to R and R Studio.
 Slides day1
 Exercises day1
 Correction for exercise 1, exercise 2, exercise 3
+
 PRACTICUM II. Data structures in R. 
 Slides day2
 Exercises day2
@@ -34,34 +35,29 @@ Slides.
 
 LECTURE 3. 
 Slides.
-PRACTICUM. View pdf-file in this browser window. Basic plots in R using the ggplot2 package.
+PRACTICUM. Basic plots in R using the ggplot2 package.
 
 #### MODULE 3. Introduction to Probability
 LECTURE 3. 
 Slides.
 
-PRACTICUM. Download the zip-file. Elementary probability problems in R, pdf and cdf functions, simulation explicating the law of large numbers.
-STATISTICAL TABLES
-QUIZ
+PRACTICUM. Elementary probability problems in R, pdf and cdf functions, simulation explicating the law of large numbers.
 
 #### MODULE 4. Statistical Inference, part I.
 LECTURE 4
 Slides.
 
-PRACTICUM. 
-QUIZ
+PRACTICUM. One- and two-sample tests with known and unknown variance, test for proportions, simulation involving confidence intervals and t-distribution.
 
 #### MODULE 5. Statistical Inference, part II. 
 LECTURE 5. 
 Slides.
 
-PRACTICUM. 
-QUIZ
+PRACTICUM. Tests with unknown variance, non-parametric tests, simulations explicating non-parametric tests, FDR.
+
 #### MODULE 6. Statistical modeling, Regression.
 LECTURE 6. 
 Slides.
 
-PRACTICUM. 
-QUIZ
-
+PRACTICUM. Problems on linear regression, ANOVA, data transformation.
 
