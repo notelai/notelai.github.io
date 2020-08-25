@@ -5,22 +5,20 @@ subtitle: Biomedical Mathematics 2020.
 avatar: "/img/about-me.png"
 round-avatar: true
 ---
-### Course Description
+#### Course Description
 This is an introductory course to statistics and R programming for VNUK students. The material is offered in 6 consecutive modules (please see Course Syllabus below), each containing a lecture and practicum in a tutorial class. For practical exercises, we will use the R programming language and R Studio. The R part is offered in 4 slow-paced practicums for beginners. However, this course is focused on statistics rather than R; therefore, each practicum is designed with the purpose to demonstrate and reinforce understanding of concepts introduced in the lecture rather than to provide training in R. 
-### Course Syllabus, Schedule, and Materials
----
+
 #### MODULE 1. Introduction to R
 LECTURE 1. 
 Slides.
 
-PRACTICUM I. Intro to R and R Studio.
-Slides.
+PRACTICUM 1.1. Intro to R and R Studio.
 
-PRACTICUM II. Data structures in R. 
+PRACTICUM 1.2. Data structures in R. 
 
-PRACTICUM III. Lists & Packages. 
+PRACTICUM 1.3. Lists & Packages. 
 
-PRACTICUM IV. Plots & Graphics in R. 
+PRACTICUM 1.4. Plots & Graphics in R. 
 
 #### MODULE 2. Descriptive statistics
 LECTURE 2. 
@@ -54,4 +52,7 @@ LECTURE 6.
 Slides.
 
 PRACTICUM. Problems on linear regression, ANOVA, data transformation.
+
+#### External Resources
+"Introduction to Probability and Statistics using R" by G. Jay Kerns
 
