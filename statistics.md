@@ -12,13 +12,13 @@ This is an introductory course to statistics and R programming for VNUK students
 LECTURE 1. 
 Slides.
 
-PRACTICUM 1.1. Intro to R and R Studio.
+TUTORIAL 1.1. Intro to R and R Studio.
 
-PRACTICUM 1.2. Data structures in R. 
+TUTORIAL 1.2. Data structures in R. 
 
-PRACTICUM 1.3. Lists & Packages. 
+TUTORIAL 1.3. Lists & Packages. 
 
-PRACTICUM 1.4. Plots & Graphics in R. 
+TUTORIAL 1.4. Plots & Graphics in R. 
 
 #### MODULE 2. Descriptive statistics
 LECTURE 2. 
@@ -27,31 +27,31 @@ Slides.
 LECTURE 3. 
 Slides.
 
-PRACTICUM. Basic plots in R using the ggplot2 package.
+TUTORIAL 2. Basic plots in R using the ggplot2 package.
 
 #### MODULE 3. Introduction to Probability
 LECTURE 3. 
 Slides.
 
-PRACTICUM. Elementary probability problems in R, pdf and cdf functions, simulation explicating the law of large numbers.
+TUTORIAL 3. Elementary probability problems in R, pdf and cdf functions, simulation explicating the law of large numbers.
 
 #### MODULE 4. Statistical Inference, part I.
 LECTURE 4
 Slides.
 
-PRACTICUM. One- and two-sample tests with known and unknown variance, test for proportions, simulation involving confidence intervals and t-distribution.
+TUTORIAL 4. One- and two-sample tests with known and unknown variance, test for proportions, simulation involving confidence intervals and t-distribution.
 
 #### MODULE 5. Statistical Inference, part II. 
 LECTURE 5. 
 Slides.
 
-PRACTICUM. Tests with unknown variance, non-parametric tests, simulations explicating non-parametric tests, FDR.
+TUTORIAL 5. Tests with unknown variance, non-parametric tests, simulations explicating non-parametric tests, FDR.
 
 #### MODULE 6. Statistical modeling, Regression.
 LECTURE 6. 
 Slides.
 
-PRACTICUM. Problems on linear regression, ANOVA, data transformation.
+TUTORIAL 6. Problems on linear regression, ANOVA, data transformation.
 
 #### External Resources
 "Introduction to Probability and Statistics using R" by G. Jay Kerns
