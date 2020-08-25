@@ -54,6 +54,7 @@ QUIZ
 #### MODULE 5. Statistical Inference, part II. 
 LECTURE 5. 
 Slides.
+
 PRACTICUM. 
 QUIZ
 #### MODULE 6. Statistical modeling, Regression.
