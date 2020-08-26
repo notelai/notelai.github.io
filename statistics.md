@@ -10,7 +10,7 @@ This is an introductory course to statistics and R programming for VNUK students
 
 #### MODULE 1. Introduction to R
 LECTURE 1. 
-.
+What is R and why to use R? Basics of R language. Data types. Data structures.
 
 TUTORIAL 1.1. Intro to R and R Studio.
 
