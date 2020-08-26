@@ -55,7 +55,10 @@ TUTORIAL 6. Problems on linear regression, ANOVA, data transformation.
 
 #### External Resources
 "Biostatistics: A Methodology For the Health Sciences" by Gerald van Belle, Lloyd D. Fisher, Patrick J. Heagerty, Thomas Lumley
+
 "Fundamentals of Biostatistics" by Bernard Rosner
+
 "Introduction to Probability and Statistics using R" by G. Jay Kerns
+
 "Mathematical Statistics with Applications" by Dennis Wackerly, William Mendenhall, Richard L. Scheaffer
 
