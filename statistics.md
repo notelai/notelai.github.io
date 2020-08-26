@@ -6,28 +6,26 @@ avatar: "/img/about-me.png"
 round-avatar: true
 ---
 #### Course Description
-This is an introductory course to statistics and R programming for VNUK students. The material is offered in 6 modules, each containing a lecture and practicum in tutorial class. For practical exercises, we will use the R programming language and R Studio (with interface). The R part is offered in 4 slow-paced practicums for beginners. However, this course is focused on statistics rather than R; therefore, each practicum is designed with the purpose to demonstrate and reinforce understanding of concepts introduced in the lecture rather than to provide training in R. 
+This is an introductory course to statistics and R programming for VNUK students. The material is offered in 6 modules, each containing a lecture and practicum in tutorial class. For practical exercises, we will use the R programming language and R Studio (with interface). The R part is offered in 2 slow-paced practicums for beginners. However, this course is focused on statistics rather than R; therefore, each practicum is designed with the purpose to demonstrate and reinforce understanding of concepts introduced in the lecture rather than to provide training in R. 
 
 #### MODULE 1. Introduction to R
 LECTURE 1. 
 What is R and why to use R? Basics of R language. Data types. Data structures.
 
-TUTORIAL 1.1. Intro to R and R Studio.
+TUTORIAL 1.1. Intro to R and R Studio. Data structures in R.
 
-TUTORIAL 1.2. Data structures in R. 
-
-TUTORIAL 1.3. Lists & Packages. 
-
-TUTORIAL 1.4. Plots & Graphics in R. 
+TUTORIAL 1.2 Lists & Packages. 
 
 #### MODULE 2. Descriptive statistics
-LECTURE 2. 
+LECTURE 2.1
 Exploratory data analysis: bar-plot, histogram, CDF, box-plot, scatter-plot, pie charts etc. Samples, measures of center and spread, percentiles, odds ratio. Outliers and robustness. Experiment versus observational study, confounding factors, simple random sample, other types of sampling, biases in sampling techniques.
 
-LECTURE 3. 
+TUTORIAL 2.1 Plots & Graphics in R. 
+
+LECTURE 2.2 
 Introduction to R programming language and R Studio: Data types, variables, packages, functions, handling files/scripts/projects.
 
-TUTORIAL 2. Basic plots in R using the ggplot2 package.
+TUTORIAL 2.2 Basic plots in R using the ggplot2 package.
 
 #### MODULE 3. Introduction to Probability
 LECTURE 3. 
