@@ -21,7 +21,7 @@ url: "https://notelai.github.io"
 # List of links in the navigation bar
 navbar-links:
   Home: "https://notelai.github.io/"
-  Linux: "linux"
+  Study design: "study_design"
   Statistics: "statistics"
   RNA-Seq: "rna-seq"
   About Me / Contact: "aboutme"

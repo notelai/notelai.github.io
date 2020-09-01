@@ -6,13 +6,13 @@ avatar: "/img/about-me.png"
 round-avatar: true
 ---
 #### Course Description
-This is an introductory course to statistics and R programming for VNUK students. The material is offered in 6 modules, each containing a lecture and practicum in tutorial class. For practical exercises, we will use the R programming language and R Studio (with interface). The R part is offered in 2 slow-paced practicums for beginners. However, this course is focused on statistics rather than R; therefore, each practicum is designed with the purpose to demonstrate and reinforce understanding of concepts introduced in the lecture rather than to provide training in R. 
+This is an introductory course to statistics and R programming for VNUK students. The material is offered in 6 modules, each containing a lecture and practicum in tutorial class. For practical exercises, we will use the R programming language and R Studio (with interface). The R part is offered in 2 slow-paced practicums for beginners. However, this course is focused on statistics rather than R; therefore, each practicum is designed with the purpose to demonstrate and reinforce understanding of concepts introduced in the lecture rather than to provide training in R. (Syllabus)
 
 #### MODULE 1. Introduction to R
 LECTURE 1. 
 What is R and why to use R? Basics of R language. Data types. Data structures.
 
-TUTORIAL 1.1. Intro to R and R Studio. Data structures in R.
+TUTORIAL 1.1. Install R and R Studio. Data structures in R.
 
 TUTORIAL 1.2 Lists & Packages. 
 
@@ -27,6 +27,8 @@ Introduction to R programming language and R Studio: Data types, variables, pack
 
 TUTORIAL 2.2 Basic plots in R using the ggplot2 package.
 
+PROBLEM SET 1
+
 #### MODULE 3. Introduction to Probability
 LECTURE 3. 
 Independence, conditional probability, Bayes formula. Distributions, population mean and population variance, Binomial, Poisson, and Normal distribution. Central Limit theorem and the Law of large numbers. Continuity correction. Sampling with and without replacement. Correction for finite population size.
@@ -39,11 +41,15 @@ Statistical Inference, part I. The concept of hypothesis testing, type I and typ
 
 TUTORIAL 4. One- and two-sample tests with known and unknown variance, test for proportions, simulation involving confidence intervals and t-distribution.
 
+PROBLEM SET 2
+
 #### MODULE 5. Statistical Inference, part II. 
 LECTURE 5. 
 Statistical Inference, part II. Estimation of variance. Fisher test for variance equality. Non-parametric tests. Sign test, Wilcoxon sum of ranks test (Mann-Whitney U-test), Wilcoxon signed rank test. Chi-square test for goodness of fit, chi-square test for independence. Kolmogorov-Smirnov (KS) test. Shapiro test for normality. Sample size estimation. Correction for multiple testing, family-wise error rate.
 
 TUTORIAL 5. Tests with unknown variance, non-parametric tests, simulations explicating non-parametric tests, FDR.
+
+PROBLEM SET 3
 
 #### MODULE 6. Statistical modeling, Regression.
 LECTURE 6. 
@@ -52,6 +58,8 @@ Simple linear regression model, residuals, degrees of freedom, least squares met
 TUTORIAL 6. Problems on linear regression, ANOVA, data transformation.
 
 #### External Resources
+https://www.khanacademy.org/math/statistics-probability
+
 "Biostatistics: A Methodology For the Health Sciences" by Gerald van Belle, Lloyd D. Fisher, Patrick J. Heagerty, Thomas Lumley
 
 "Fundamentals of Biostatistics" by Bernard Rosner
