@@ -6,7 +6,7 @@ avatar: "/img/about-me.png"
 round-avatar: true
 ---
 #### Introduction
-This lecture is devoted to the topic of study design. One of the most important factors in both reading and evaluating published literature and in designing your own research is a thorough understanding of the variety in study types. Indeed, the choice of study type has a direct bearing on the findings, its importance, and its relevance.
+One of the most important factors in both reading and evaluating published literature and in designing your own research is a thorough understanding of the variety in study types. Indeed, the choice of study type has a direct bearing on the findings, its importance, and its relevance.
 
 As with most scientific endeavors, the classification of study type is varied and different schemes exist to classify designs. One logical approach is to divide designs into two main groups: *observational* and *experimental*. In observational studies, subjects or variables are merely observed and in experimental studies, an intervention is performed. From this basic difference, a scheme for different study designs can follow.
 
