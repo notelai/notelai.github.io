@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: Contact Us
 subtitle: Cafe is my name.
 avatar: "/img/about-me.png"
 round-avatar: true
