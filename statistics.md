@@ -27,20 +27,22 @@ LECTURE 1.4: Epidemiological Study Design.
 
 TUTORIAL 1.4: Data Entry for a statistical analysis.  
 
-Problem set 1  
+PROBLEM SET 1  
 
 #### MODULE 2. Descriptive statistics
-LECTURE 2.1
-Exploratory data analysis: bar-plot, histogram, CDF, box-plot, scatter-plot, pie charts etc. Samples, measures of center and spread, percentiles, odds ratio. Outliers and robustness. Experiment versus observational study, confounding factors, simple random sample, other types of sampling, biases in sampling techniques.
+Online Quiz 2  
 
-TUTORIAL 2.1 Plots & Graphics in R. 
+LECTURE 2.1: Data Description and Graphical Representation  
 
-LECTURE 2.2 
-Introduction to R programming language and R Studio: Data types, variables, packages, functions, handling files/scripts/projects.
+TUTORIAL 2.1: Plots & Graphics in R  
 
-TUTORIAL 2.2 Basic plots in R using the ggplot2 package.
+Online Quiz 3  
 
-PROBLEM SET 1
+LECTURE 2.2: Measures of Central Tendency and Variability.  
+
+TUTORIAL 2.2: Practice Exploratory data analysis  
+
+PROBLEM SET 2  
 
 #### MODULE 3. Introduction to Probability
 LECTURE 3. 
