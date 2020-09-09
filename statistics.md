@@ -8,7 +8,7 @@ round-avatar: true
 #### Course Description
 This is an introductory course to statistics and R programming for VNUK students. The material is offered in 5 modules, each containing a lecture and practicum in tutorial class. For practical exercises, we will use the R programming language and R Studio (with interface). The R part is offered in 2 slow-paced practicums for beginners. However, this course is focused on statistics rather than R; therefore, each practicum is designed with the purpose to demonstrate and reinforce understanding of concepts introduced in the lecture rather than to provide training in R.  
 
-Syllabus ([pdf](https://drive.google.com/file/d/1sEa72QaSQg37LZC89UcNj_Shn1Ff-5FX/view?usp=sharing)). Introduction([slide](#))  
+Syllabus ([pdf](https://drive.google.com/file/d/1sEa72QaSQg37LZC89UcNj_Shn1Ff-5FX/view?usp=sharing)). Introduction([slide](https://drive.google.com/file/d/134s3h-CqjIox5jFpNUDCWHsk6CsfUENN/view?usp=sharing))  
 
 #### MODULE 1. Introduction Statistics and basic R  
 LECTURE 1.1: Basic Statistical Concept. Intro R and Rstudio. ([pdf](#))  
