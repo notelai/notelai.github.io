@@ -24,7 +24,7 @@ navbar-links:
   Study design: "study_design"
   Statistics: "statistics"
   RNA-Seq: "rna-seq"
-  About Me / Contact: "aboutme"
+  Contact: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -71,7 +71,7 @@ social-network-links:
   rss: true
   email: "thien.nguyen@vnuk.edu.vn"
 #facebook: handmadedn
-  github: notelai
+  github: htglab
 
 
 # Select which share links to show in posts
@@ -82,7 +82,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "notelai.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "htglab.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
