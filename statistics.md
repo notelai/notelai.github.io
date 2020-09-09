@@ -38,7 +38,7 @@ TUTORIAL 2.1: Plots & Graphics in R. ([pdf](#))
 
 Online Quiz 3  
 
-LECTURE 2.2: Measures of Central Tendency and Variability. [([pdf](#))  
+LECTURE 2.2: Measures of Central Tendency and Variability. ([pdf](#))  
 
 TUTORIAL 2.2: Practice Exploratory data analysis. ([pdf](#))  
 
@@ -48,10 +48,10 @@ PROBLEM SET 2. ([pdf](#))
 Online Quiz 4  
 
 LECTURE 3.  
-Independence, conditional probability, Bayes formula. Distributions, population mean and population variance, Binomial, Poisson, and Normal distribution. Central Limit theorem and the Law of large numbers. Continuity correction. Sampling with and without replacement. Correction for finite population size. [pdf](#)  
+Independence, conditional probability, Bayes formula. Distributions, population mean and population variance, Binomial, Poisson, and Normal distribution. Central Limit theorem and the Law of large numbers. Continuity correction. Sampling with and without replacement. Correction for finite population size. ([pdf](#))  
 
 TUTORIAL 3.  
-Elementary probability problems in R, Probability Density Function and the Cumulative Distribution Function, simulation explicating the law of large numbers. [pdf](#)  
+Elementary probability problems in R, Probability Density Function and the Cumulative Distribution Function, simulation explicating the law of large numbers. ([pdf](#))  
 
 #### MODULE 4. Statistical Inference, part I.
 Online Quiz 5  
