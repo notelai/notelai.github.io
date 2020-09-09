@@ -66,17 +66,17 @@ Online Quiz 6
 LECTURE 4.2  
 Statistical Inference, part II.  
 
-TUTORIAL 5. Tests with unknown variance, non-parametric tests, simulations explicating non-parametric tests, FDR.  
+TUTORIAL 4.2 Tests with unknown variance, non-parametric tests, simulations explicating non-parametric tests, FDR.  
 
 PROBLEM SET 3  
 
 #### MODULE 5. Statistical modeling, Regression.
 Online Quiz 7  
 
-LECTURE 6.  
+LECTURE 5.  
 Simple linear regression model, residuals, degrees of freedom, least squares method, correlation coefficient, variance decomposition, determination coefficient. Interpretation of the slope, correlation, and determination coefficients. Standard error and statistical inference in simple linear regression model. Analysis of variance (ANOVA). One-way and two-way ANOVA.  
 
-TUTORIAL 6. Problems on linear regression, ANOVA, data transformation.  
+TUTORIAL 5. Problems on linear regression, ANOVA, data transformation.  
 
 #### External Resources
 https://www.khanacademy.org/math/statistics-probability
