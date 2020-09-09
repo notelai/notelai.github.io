@@ -44,7 +44,7 @@ LECTURE 2.2: Measures of Central Tendency and Variability. ([pdf])
 
 TUTORIAL 2.2: Practice Exploratory data analysis. ([pdf])  
 
-PROBLEM SET 2. ([pdf])  
+PROBLEM SET 2. (pdf) [SUBMIT HERE](#){:target="_blank"}  
 
 #### MODULE 3. Introduction to Probability
 Online Quiz 4. ([link])  
@@ -70,7 +70,7 @@ Statistical Inference, part II. ([pdf])
 
 TUTORIAL 4.2 Tests with unknown variance, non-parametric tests, simulations explicating non-parametric tests, FDR. ([pdf])  
 
-PROBLEM SET 3. ([pdf])  
+PROBLEM SET 3. (pdf) [SUBMIT HERE](#){:target="_blank"}  
 
 #### MODULE 5. Statistical modeling, Regression.
 Online Quiz 7. ([link])  
