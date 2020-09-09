@@ -54,10 +54,14 @@ TUTORIAL 3.
 Elementary probability problems in R, Probability Density Function and the Cumulative Distribution Function, simulation explicating the law of large numbers.  
 
 #### MODULE 4. Statistical Inference, part I.
+Online Quiz 5  
+
 LECTURE 4.1  
 Statistical Inference, part I.  
 
 TUTORIAL 4.1 One- and two-sample tests with known and unknown variance, test for proportions, simulation involving confidence intervals and t-distribution.  
+
+Online Quiz 6  
 
 LECTURE 4.2  
 Statistical Inference, part II.  
@@ -67,10 +71,12 @@ TUTORIAL 5. Tests with unknown variance, non-parametric tests, simulations expli
 PROBLEM SET 3  
 
 #### MODULE 5. Statistical modeling, Regression.
-LECTURE 6. 
-Simple linear regression model, residuals, degrees of freedom, least squares method, correlation coefficient, variance decomposition, determination coefficient. Interpretation of the slope, correlation, and determination coefficients. Standard error and statistical inference in simple linear regression model. Analysis of variance (ANOVA). One-way and two-way ANOVA.
+Online Quiz 7  
 
-TUTORIAL 6. Problems on linear regression, ANOVA, data transformation.
+LECTURE 6.  
+Simple linear regression model, residuals, degrees of freedom, least squares method, correlation coefficient, variance decomposition, determination coefficient. Interpretation of the slope, correlation, and determination coefficients. Standard error and statistical inference in simple linear regression model. Analysis of variance (ANOVA). One-way and two-way ANOVA.  
+
+TUTORIAL 6. Problems on linear regression, ANOVA, data transformation.  
 
 #### External Resources
 https://www.khanacademy.org/math/statistics-probability
