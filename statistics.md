@@ -83,12 +83,12 @@ TUTORIAL 5. Problems on linear regression, ANOVA, data transformation. ([pdf](#)
 #### External Resources
 https://www.khanacademy.org/math/statistics-probability.  
 
-"Biostatistics: A Methodology For the Health Sciences" by Gerald van Belle, Lloyd D. Fisher, Patrick J. Heagerty, Thomas Lumley. ([pdf](#))  
+"Biostatistics: A Methodology For the Health Sciences" by Gerald van Belle, Lloyd D. Fisher, Patrick J. Heagerty, Thomas Lumley. ([https://drive.google.com/file/d/1vJA265WMp35vMkWuyHyIskUEpt0GBe2_/view?usp=sharing](#))  
 
-"Fundamentals of Biostatistics" by Bernard Rosner. ([pdf](#))  
+"Fundamentals of Biostatistics" by Bernard Rosner. ([https://drive.google.com/file/d/1qwbCk2xcGdPkEz0kxN-yfe_SAgY5K7VB/view?usp=sharing](#))  
 
 "Introduction to Probability and Statistics using R" by G. Jay Kerns. ([pdf](#))  
 
-"Mathematical Statistics with Applications" by Dennis Wackerly, William Mendenhall, Richard L. Scheaffer. ([pdf](#))  
+"Mathematical Statistics with Applications" by Dennis Wackerly, William Mendenhall, Richard L. Scheaffer. ([https://drive.google.com/file/d/1I4ENykDHBqR7fnMWbYA0zhyVLtUDT-Ua/view?usp=sharing](#))  
 
 
