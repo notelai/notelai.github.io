@@ -8,7 +8,7 @@ round-avatar: true
 #### Course Description
 This is an introductory course to statistics and R programming for VNUK students. The material is offered in 5 modules, each containing a lecture and practicum in tutorial class. For practical exercises, we will use the R programming language and R Studio (with interface). The R part is offered in 4 slow-paced tutorials for beginners. However, this course is focused on statistics rather than R; therefore, each practicum is designed with the purpose to demonstrate and reinforce understanding of concepts introduced in the lecture rather than to provide training in R.  
 
-Syllabus ([pdf](https://drive.google.com/file/d/1sEa72QaSQg37LZC89UcNj_Shn1Ff-5FX/view?usp=sharing){:target="_blank"}). Introduction([slide](https://drive.google.com/file/d/134s3h-CqjIox5jFpNUDCWHsk6CsfUENN/view?usp=sharing){:target="_blank"})  
+Introduction([slide](https://drive.google.com/file/d/134s3h-CqjIox5jFpNUDCWHsk6CsfUENN/view?usp=sharing){:target="_blank"}). Syllabus ([pdf](https://drive.google.com/file/d/1sEa72QaSQg37LZC89UcNj_Shn1Ff-5FX/view?usp=sharing){:target="_blank"}).  
 
 #### MODULE 1. Introduction Statistics and basic R  
 LECTURE 1.1: Basic Statistical Concept. Intro R and Rstudio. ([pdf](#))  
@@ -85,10 +85,10 @@ Online course:https://www.khanacademy.org/math/statistics-probability.
 
 Online course: https://vnuk.udemy.com/course/statistics-probability/  
 
-"Biostatistics: A Methodology For the Health Sciences" by Gerald van Belle, Lloyd D. Fisher, Patrick J. Heagerty, Thomas Lumley. ([pdf](https://drive.google.com/file/d/1vJA265WMp35vMkWuyHyIskUEpt0GBe2_/view?usp=sharing))  
+"Biostatistics: A Methodology For the Health Sciences" by Gerald van Belle, Lloyd D. Fisher, Patrick J. Heagerty, Thomas Lumley. ([pdf](https://drive.google.com/file/d/1vJA265WMp35vMkWuyHyIskUEpt0GBe2_/view?usp=sharing){:target="_blank"})  
 
-"Fundamentals of Biostatistics" by Bernard Rosner. ([pdf](https://drive.google.com/file/d/1qwbCk2xcGdPkEz0kxN-yfe_SAgY5K7VB/view?usp=sharing))  
+"Fundamentals of Biostatistics" by Bernard Rosner. ([pdf](https://drive.google.com/file/d/1qwbCk2xcGdPkEz0kxN-yfe_SAgY5K7VB/view?usp=sharing){:target="_blank"})  
 
-"Mathematical Statistics with Applications" by Dennis Wackerly, William Mendenhall, Richard L. Scheaffer. ([pdf](https://drive.google.com/file/d/1I4ENykDHBqR7fnMWbYA0zhyVLtUDT-Ua/view?usp=sharing))  
+"Mathematical Statistics with Applications" by Dennis Wackerly, William Mendenhall, Richard L. Scheaffer. ([pdf](https://drive.google.com/file/d/1I4ENykDHBqR7fnMWbYA0zhyVLtUDT-Ua/view?usp=sharing){:target="_blank"})  
 
 
