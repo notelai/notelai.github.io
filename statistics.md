@@ -29,7 +29,7 @@ LECTURE 1.4: Epidemiological Study Design. ([pdf])
 
 TUTORIAL 1.4: Data Entry for a statistical analysis. ([pdf])  
 
-PROBLEM SET 1. (pdf) [![](img/submit.jpeg){width=100px}](#){:target="_blank"}  
+PROBLEM SET 1. (pdf) [![](img/123.png{width=100px}](#){:target="_blank"}  
 
 #### MODULE 2. Descriptive statistics
 Online Quiz 2. ([link])  
