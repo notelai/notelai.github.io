@@ -11,9 +11,9 @@ This is an introductory course to statistics and R programming for VNUK students
 Introduction ([slide](https://drive.google.com/file/d/134s3h-CqjIox5jFpNUDCWHsk6CsfUENN/view?usp=sharing){:target="_blank"}). Syllabus ([pdf](https://drive.google.com/file/d/1sEa72QaSQg37LZC89UcNj_Shn1Ff-5FX/view?usp=sharing){:target="_blank"}).  
 
 #### MODULE 1. Introduction Statistics and basic R  
-LECTURE 1.1: Basic Statistical Concept. Intro R and Rstudio. ([pdf](#))  
+LECTURE 1.1: Basic Statistical Concept. Intro R and Rstudio. ([pdf](https://drive.google.com/file/d/1ATOy7jhOkjhvgASO456EqNdCz3UdkRLX/view?usp=sharing){:target="_blank"})  
 
-TUTORIAL 1.1: Set up your computer environment. Basic commands. ([pdf](#))  
+TUTORIAL 1.1: Set up your computer environment. Basic commands. ([pdf](https://drive.google.com/file/d/1pzLPXw2KcSLVOmuRSZnFK3p0N36Mr4Yb/view?usp=sharing){:target="_blank"})  
 
 LECTURE 1.2: Data structures in R. Vectors, Matrices, Data frames, List. ([pdf])  
 
