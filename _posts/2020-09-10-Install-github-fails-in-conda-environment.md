@@ -29,6 +29,4 @@ R -q
 ~~~
 Note in the example above, I installed unzip via conda. On a system that has unzip, I usually use options(unzip = "/usr/bin/unzip").
 
-Is there anyway to automatically configure these environment variables for the conda installation of R? In other words, without resorting to .Renviron or .Rprofile, which would also affect the system installation of R.
-
 
