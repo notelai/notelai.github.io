@@ -4,7 +4,8 @@ title: Tutorial - How to download raw sequence data
 subtitle: download raw sequence data
 tags: [raw data, test, linux]
 ---
-download some raw sequence data in fastq format from GEO/SRA and run through an appropriate aligner (BWA, TopHat, STAR, etc) and then variant caller (Strelka, etc) or other analysis pipeline. How do we get started?  First, we need the sequence data.#
+We need to download some raw sequence data in fastq format from GEO/SRA and run through an appropriate aligner (BWA, TopHat, STAR, etc) and then variant caller (Strelka, etc) or other analysis pipeline. 
+How do we get started?  First, we need the sequence data.
 Determine the SRR number and then download the data at the command-line with:
 ~~~
 $ prefetch -v SRR925811
