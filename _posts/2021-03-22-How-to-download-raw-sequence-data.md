@@ -24,5 +24,6 @@ If you just want to download X number of raw (fastq) reads to standard output fr
 $ fastq-dump -X 5 -Z SRR925811
 ~~~
 
+from https://www.biostars.org/p/111040/
 
 
