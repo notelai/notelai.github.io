@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tutorial: How to download raw sequence data from GEO/SRA
+title: Tutorial - How to download raw sequence data
 subtitle: download raw sequence data
 tags: [raw data, test, linux]
 ---
